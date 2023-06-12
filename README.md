@@ -40,6 +40,6 @@ The model's performance is analyzed by plotting the accuracy graph during traini
 
 Results:
 
-The final results include the test loss, test accuracy, and the classification report showing precision, recall, and F1-score (>75% for all cases) for each emotion class.
+The final results include the test loss, test accuracy, and the classification report showing precision, recall, and F1-score ( more than 75% for all cases) for each emotion class.
 
 
